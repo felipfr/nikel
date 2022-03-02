@@ -1,3 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 #login{
     background: linear-gradient(120deg, #4c79d3 44.9%, #ffffff 45%) no-repeat fixed;
 }
