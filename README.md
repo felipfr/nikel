@@ -1,5 +1,7 @@
 # :moneybag: nikel
 
+*Demo:* https://felipfr.github.io/nikel/
+
 O nikel é uma aplicação web desenvolvida em HTML, CSS (utilizando o Bootstrap) e JavaScript, onde o usuário poderá organizar a sua vida financeira, controlando os seus ganhos e gastos de forma bem simples.
 
 Após realizar o cadastro e login, o usuário poderá fazer os lançamentos das suas movimentações financeiras, baseando-se em entradas e saídas, tipo de movimentação e data em que foi feita. E baseando nas entradas e saídas, a aplicação consegue mostrar o saldo para o usuário.
